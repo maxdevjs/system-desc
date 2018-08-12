@@ -1,7 +1,12 @@
-Work in progress
+![Work in Progress](./img/02_02_18_508408464_aab_560x292.jpg)
 
 # system-desc
-Description of my main system. 
+
+Description of my main system.
+
+<!-- ![Screenshot](./img/screenshot-2018-08-11_23:52:29_-03-03:00_1534042349.png) -->
+
+<img src="./img/screenshot-2018-08-11_23:52:29_-03-03:00_1534042349.png" width="960">
 
 ## Distro
 
@@ -19,9 +24,9 @@ Description of my main system.
 
 Sometimes using a few components, otherwise ignored.
 
-[Budgie](https://en.wikipedia.org/wiki/Budgie_(desktop_environment)) feature-rich, luxurious desktop using the most modern technologies.
+[Budgie](<https://en.wikipedia.org/wiki/Budgie_(desktop_environment)>) feature-rich, luxurious desktop using the most modern technologies.
 
-[Mate](https://en.wikipedia.org/wiki/MATE_(software)) traditional desktop for advanced users and older hardware.
+[Mate](<https://en.wikipedia.org/wiki/MATE_(software)>) traditional desktop for advanced users and older hardware.
 
 ## Bar
 
@@ -41,18 +46,14 @@ Sometimes using a few components, otherwise ignored.
 
 [Gnome Terminal](https://en.wikipedia.org/wiki/GNOME_Terminal) is a terminal emulator for the GNOME desktop environment written by Havoc Pennington and others. Terminal emulators allow users to access a UNIX shell while remaining on their graphical desktop.
 
-[Mate Terminal](https://en.wikipedia.org/wiki/MATE_(software)) terminal emulator (from GNOME Terminal)
+[Mate Terminal](<https://en.wikipedia.org/wiki/MATE_(software)>) terminal emulator (from GNOME Terminal)
 
 ## File Browser
 
-[Ranger](https://en.wikipedia.org/wiki/Ranger_(file_manager))  is a free and open-source file manager with text-based user interface for Unix-like systems.
+[Ranger](<https://en.wikipedia.org/wiki/Ranger_(file_manager)>) is a free and open-source file manager with text-based user interface for Unix-like systems.
 
-[Nautilus](https://en.wikipedia.org/wiki/GNOME_Files) GNOME Files, formerly and internally known as Nautilus, is the official file manager for the GNOME desktop (and [Budgie](https://en.wikipedia.org/wiki/Budgie_(desktop_environment))). 
+[Nautilus](https://en.wikipedia.org/wiki/GNOME_Files) GNOME Files, formerly and internally known as Nautilus, is the official file manager for the GNOME desktop (and [Budgie](<https://en.wikipedia.org/wiki/Budgie_(desktop_environment)>)).
 
 ## Dotfiles
 
-Soon, maybe
-
-[dotfiles](#)
-
-[]()
+[Soon, maybe](#)
