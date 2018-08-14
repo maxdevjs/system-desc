@@ -8,19 +8,21 @@ Description of my main system.
 
 <img src="./img/screenshot-2018-08-11_23:52:29_-03-03:00_1534042349.png" width="960">
 
-## Distro
+## System
+
+### Distro
 
 [Solus](https://solus-project.com/) is an operating system that is designed for home computing. Every tweak enables us to deliver a cohesive computing experience.
 
-## Window Manager
+### Window Manager
 
-### Active
+#### In use
 
 [i3wm](https://i3wm.org/) is a tiling window manager
 
-## Desktop Environment
+### Desktop Environment
 
-### Installed
+#### Installed
 
 Sometimes using a few components, otherwise ignored.
 
@@ -28,31 +30,49 @@ Sometimes using a few components, otherwise ignored.
 
 [Mate](<https://en.wikipedia.org/wiki/MATE_(software)>) traditional desktop for advanced users and older hardware.
 
-## Bar
+### Bar
 
 [Polybar](https://github.com/jaagr/polybar) is a fast and easy-to-use tool for creating status bars.
 
-## Launcher & C.
+### Launcher & C.
 
 [Rofi](https://github.com/DaveDavenport/rofi) a window switcher, application launcher and dmenu replacement
 
-## X11 Compositor
+### X11 Compositor
 
 [Compton](https://github.com/chjj/compton) is a compositor for X, and a fork of xcompmgr-dana.
 
-## Terminal
+## Software
 
-[Tilix](https://gnunn1.github.io/tilix-web/) is an advanced GTK3 tiling terminal emulator that follows the Gnome Human Interface Guidelines.
+### Text Editor
 
-[Gnome Terminal](https://en.wikipedia.org/wiki/GNOME_Terminal) is a terminal emulator for the GNOME desktop environment written by Havoc Pennington and others. Terminal emulators allow users to access a UNIX shell while remaining on their graphical desktop.
+#### In use
 
-[Mate Terminal](<https://en.wikipedia.org/wiki/MATE_(software)>) terminal emulator (from GNOME Terminal)
+[neovim](https://neovim.io/) literally the future of vim
+
+#### Installed
+
+[VSCode](https://code.visualstudio.com/)
+
+[Sublime Text](https://www.sublimetext.com/) a sophisticated text editor for code, markup and prose
 
 ## File Browser
 
 [Ranger](<https://en.wikipedia.org/wiki/Ranger_(file_manager)>) is a free and open-source file manager with text-based user interface for Unix-like systems.
 
 [Nautilus](https://en.wikipedia.org/wiki/GNOME_Files) GNOME Files, formerly and internally known as Nautilus, is the official file manager for the GNOME desktop (and [Budgie](<https://en.wikipedia.org/wiki/Budgie_(desktop_environment)>)).
+
+### Terminal
+
+#### In use
+
+[Tilix](https://gnunn1.github.io/tilix-web/) is an advanced GTK3 tiling terminal emulator that follows the Gnome Human Interface Guidelines.
+
+#### Installed
+
+[Gnome Terminal](https://en.wikipedia.org/wiki/GNOME_Terminal) is a terminal emulator for the GNOME desktop environment written by Havoc Pennington and others. Terminal emulators allow users to access a UNIX shell while remaining on their graphical desktop.
+
+[Mate Terminal](<https://en.wikipedia.org/wiki/MATE_(software)>) terminal emulator (from GNOME Terminal)
 
 ## Dotfiles
 
