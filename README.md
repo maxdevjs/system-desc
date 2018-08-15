@@ -18,7 +18,7 @@ Description of my main system.
 
 #### In use
 
-[i3wm](https://i3wm.org/) is a tiling window manager
+[i3wm](https://i3wm.org/) is a tiling window manager ( [i3-gaps](https://github.com/Airblader/i3) version is [Solus](https://solus-project.com/)'s default)
 
 ### Desktop Environment
 
